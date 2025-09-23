@@ -24,6 +24,8 @@ Before running the installer, copy your `.myvimrc` to `vim_folder/.vimrc` (the i
 
 ```bash
 # from repo root
+git clone https://github.com/PsymoNiko/vim_config.git
+cd vim_config
 chmod +x install.sh
 # run installer (may prompt for sudo)
 sudo ./install.sh
