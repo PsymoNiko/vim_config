@@ -28,7 +28,7 @@ git clone https://github.com/PsymoNiko/vim_config.git
 cd vim_config
 chmod +x install.sh
 # run installer (may prompt for sudo)
-sudo ./install.sh
+./install.sh
 ```
 
 If you prefer to keep the file elsewhere, you can pass a path to `install.sh`:
