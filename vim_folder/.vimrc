@@ -14,6 +14,8 @@ set hidden
 set backspace=indent,eol,start
 syntax on
 set t_Co=256
+set foldmethod=manual
+set nofoldenable  
 
 "==============================
 " Vundle Setup
